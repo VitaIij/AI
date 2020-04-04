@@ -1,0 +1,5 @@
+﻿  RBFS.cpp
+C:\Users\artem\source\repos\aiai\aiai\RBFS.cpp(322,21): warning C4018: '<': signed/unsigned mismatch
+  aiai.cpp
+  Generating Code...
+  aiai.vcxproj -> C:\Users\artem\source\repos\aiai\Debug\aiai.exe

@@ -1,0 +1,4 @@
+﻿  HILLCL.cpp
+c:\users\виталий\source\repos\ai3\ai3\hillcl.cpp(30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AI3.vcxproj -> C:\Users\Виталий\source\repos\AI3\Debug\AI3.exe
+  AI3.vcxproj -> C:\Users\Виталий\source\repos\AI3\Debug\AI3.pdb (Partial PDB)
